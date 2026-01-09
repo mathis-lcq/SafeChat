@@ -1,7 +1,5 @@
 # Secure End-to-End Encrypted Chat Application
 
-Initial commit with main branch
-
 A secure chat application implementing end-to-end encryption and comprehensive security measures including RSA authentication, AES-256-GCM encryption, Diffie-Hellman key exchange, and protection against MITM, replay, DoS, and tampering attacks.
 
 ## 🔐 Security Features
